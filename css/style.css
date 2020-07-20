@@ -32,8 +32,9 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #da1212;
+  color: #BDBDBD; /*#da1212;*/
   outline: none;
+  
 }
 
 p {
