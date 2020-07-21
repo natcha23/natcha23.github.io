@@ -26,13 +26,13 @@ body {
 }
 
 a {
-  color: #BDBDBD; /*#da1212;*/
+  color: #bdbdbd; /*#da1212;*/
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #BDBDBD; /*#da1212;*/
+  color: #bdbdbd; /*#da1212;*/
   outline: none;
   
 }
