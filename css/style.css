@@ -17,6 +17,7 @@ body {
   font-size: 20px;
   line-height: 1.6;
   color: rgba(0, 0, 0, 0.5);
+  background-color: rgb(0, 0, 128);
 }
 @media screen and (max-width: 992px) {
   body {
@@ -25,13 +26,13 @@ body {
 }
 
 a {
-  color: #da1212;
+  color: #C0C0C0;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #da1212;
+  color: #E5E7E9;
   outline: none;
 }
 
@@ -40,7 +41,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000;
+  color: #D35400;
   font-family: "Montserrat", Arial, sans-serif;
   font-weight: 700;
   margin: 0 0 30px 0;
